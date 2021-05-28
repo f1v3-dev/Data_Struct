@@ -1,3 +1,5 @@
+// 중위, 전위, 후위 순회를 나타낸 프로그램
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
